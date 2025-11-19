@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 num1 = int(input('digite um numero')
 num2 = int(input('digite outro numero')
 
 media = num1 + num2 / 2
 
+=======
+num1 = int(input('digite um numero')
+num2 = int(input('digite outro numero')
+
+media = num1 + num2 / 2
+
+>>>>>>> 1c91285f28f39ff773fa68a351595d8cb52ab98a
 print('Resultado media ' + media)
